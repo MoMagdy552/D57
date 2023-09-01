@@ -4,7 +4,7 @@ int main()
 {
 
 
-    printf("firest update") ;
+    printf("manooo") ;
 
 
 return 0;
